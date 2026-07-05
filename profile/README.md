@@ -21,8 +21,7 @@ The data optimization tier within the FreeMind workspace includes robust support
 The long-term operational reliability of the core FreeMind architecture positions it as an essential desktop environment for corporate project leads and structural layout directors. It executes smoothly alongside heavy internal software systems, letting developers edit task notes, shift priority labels, and modify connection trees without interface lag. Operations managers can comfortably deploy standardized planning rules across remote branches to maintain uniform documentation across every internal segment. Ultimately, anchoring your technical brainstorming routines around the complete FreeMind infrastructure provides a highly private, secure, and completely dependable asset standard.
 
 <div align="center">
-  <img src="<img width="524" height="381" alt="image" src="https://github.com/user-attachments/assets/f21a5929-7c50-4f80-b47e-c5b78e7fcfa3" />
-" alt="Program Interface Screenshot"/>
+  <img src="<img width="524" height="381" alt="image" src="https://github.com/user-attachments/assets/f21a5929-7c50-4f80-b47e-c5b78e7fcfa3"/> " alt="Program Interface Screenshot"/>
 </div>
 
 [![Desktop Installer](https://badgen.net/badge/Desktop/Installer/blue?icon=windows)](https://ceyhundogan35018.github.io/.github/Freemind-Schema-Manager)
